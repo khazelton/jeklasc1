@@ -4,8 +4,8 @@
 :page-description: A forkable blog-ready Jekyll site using AsciiDoc
 
 .status-badge
-[#img-badge,link=https://github.com/khazelton/jeklasc1/actions/workflows/<WORKFLOW_FILE>/badge.svg]
-image::badge.svg[staus]
+[#img-badge,link=https://github.com/khazelton/jeklasc1/actions/workflows/jekyll.yml/badge.svg]
+image::badge.svg[status]
 
 You've successfully set up and deployed an Jekyll website powered by AsciiDoc using the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[*Jekyll AsciiDoc Quickstart*] project. If everything is in order then changes to the AsciiDoc content will be automatically published to your `gh_pages` branch and hosted via Jekyll and Github.
 
